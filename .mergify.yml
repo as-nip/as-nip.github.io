@@ -1,0 +1,6 @@
+queue_rules: []
+merge_queue:
+  mode: parallel
+scopes:
+  source:
+    manual:
