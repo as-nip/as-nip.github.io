@@ -4,3 +4,5 @@ merge_queue:
 scopes:
   source:
     manual:
+merge_protections_settings:
+  reporting_method: check-runs
